@@ -1,5 +1,5 @@
 
-This repository includes the source code of "**Restructuring Heterophilous Graphs for Enhanced GNN Performance: A Deep Generative Approach with Kolmogorov-Arnold Networks**"
+This repository includes the source code of "**Deep Generative Representation Learning with Kolmogorov-Arnold Networks for Heterophilous Graph**"
 
 # Requirements
 
